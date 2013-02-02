@@ -162,8 +162,6 @@
     <Content Include="bin\System.Web.Http.dll" />
     <Content Include="bin\System.Web.Http.WebHost.dll" />
     <Content Include="bin\System.Web.Mvc.dll" />
-    <Content Include="bin\System.Web.Optimization.dll" />
-    <Content Include="bin\System.Web.Providers.dll" />
     <Content Include="bin\System.Web.Razor.dll" />
     <Content Include="bin\System.Web.WebPages.Deployment.dll" />
     <Content Include="bin\System.Web.WebPages.dll" />
@@ -246,6 +244,8 @@
     <Content Include="Required\EntityFramework.dll" />
     <Content Include="Required\Microsoft.Web.Infrastructure.dll" />
     <Content Include="Required\Newtonsoft.Json.dll" />
+    <Content Include="Required\System.Web.Optimization.dll" />
+    <Content Include="Required\System.Web.Providers.dll" />
     <Content Include="Required\WebGrease.dll" />
     <Content Include="Scripts\jquery-1.7.1.js" />
     <Content Include="Scripts\jquery-1.7.1.min.js" />
